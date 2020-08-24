@@ -5,7 +5,7 @@ FullStack React Express MongoDB App to Discover and Keep Track of Favourite Book
 
 ### Rationale for building the app:
 
-I was interested in combining frontend React with backand and database
+I was interested in combining Frontend React with a Backend and a Database
 
 ### List of App's Functionality:
 
